@@ -10,10 +10,10 @@ space - activate grapple (hold)<br>
 
 o/f - toggle fullscreen<br>
 p/e - toggle pause<br>
-g/q - toggle grid<br
+g/q - toggle grid<br>
 
 click - enter fullscreen<br>
-esc - exit fullscreen<br
+esc - exit fullscreen<br>
 
 ### on mobile:
 invisible "joystick" on the left half of the screen - left and right movement, jumping<br>
